@@ -1,6 +1,6 @@
 #Author:Maximillian Havrylyuk
 #Lab2g.py
-#using while loop with integers and strings to make a hangman style of game.
+#using while loop with integers and strings to make a word scramble style of game.
 
 count = 1  # iteration variable, while loop requires a relevant variable which is used in the loop expression
 while count <= 5: # expression (evaluates to True or False)
